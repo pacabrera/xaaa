@@ -1,0 +1,15 @@
+{
+  "type": "custom-component",
+  "name": "comp4",
+  "nodeName": null,
+  "description": null,
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": null,
+  "marketplaceId": null,
+  "formControl": null,
+  "transclude": null,
+  "externalScripts": [],
+  "externalStylesheets": []
+}
